@@ -1,0 +1,4 @@
+worker-id: 65b58ff1-6f1f-4721-bbba-634aed11cf0f
+logs.users: []
+logs.groups: []
+topology.submitter.user: matteo

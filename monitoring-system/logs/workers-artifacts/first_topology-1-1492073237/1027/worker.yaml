@@ -1,0 +1,4 @@
+worker-id: 80d503bd-82cc-49af-bd00-a1803e8b0e82
+logs.users: []
+logs.groups: []
+topology.submitter.user: matti
